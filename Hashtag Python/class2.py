@@ -22,4 +22,3 @@ vendas_anual.remove(max(vendas_anual))
 
 print(f'2ª valor = {max(vendas_anual):,.2f}')
 lst_top3.append(max(vendas_anual))
-
